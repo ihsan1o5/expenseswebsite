@@ -31,7 +31,7 @@ SECRET_KEY = ')lb97rm%s+dp2c$y5##f_tpxp%p7xbi1_wmw1k9*7+#5-2*qwi'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'https://expenseswebsites.herokuapp.com/',
+    'expenseswebsites.herokuapp.com',
     '127.0.0.1'
 ]
 
